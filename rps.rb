@@ -3,9 +3,9 @@ require "language/go"
 class Rps < Formula
   desc "Measure rows-per-second rate by reading access.logs through pipe"
   homepage "https://github.com/max2k1/rps"
-  url "https://github.com/max2k1/rps/archive/0.0-3.tar.gz"
-  version "0.0-3"
-  sha256 "8c5ba8c80401e204f5f53ad713cb5ddcb6d0d3686676af06746647443bf033a1"
+  url "https://github.com/max2k1/rps/archive/0.0-5.tar.gz"
+  version "0.0-5"
+  sha256 "b1519c8bcd895160c92972f01b0d36f6ea8128b91a0a7fb5acfd5646079d71fc"
 
   head "https://github.com/max2k1/rps.git"
 
